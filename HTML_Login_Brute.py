@@ -1,6 +1,6 @@
 #!/bin/bash/env python
 
-from io import BytestIO
+from io import BytesIO
 from lxml import etree
 from queue import Queue
 
