@@ -8,3 +8,13 @@ pip install requests
 pip install lxml
 
 pip install beautifulsoup4
+
+- The GET_Resquest.py
+
+It 's a simple .py file to test a GET reauest on a webserver. Also good for coding learning and practice
+
+- The POST_Requests.py
+
+ALso a simple .py file to test POST requests.
+
+
